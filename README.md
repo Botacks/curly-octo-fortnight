@@ -2,3 +2,4 @@ Hello all! this is MY LONGEST TEXT! I started this because it was inspired by an
 This page contains very long text. if you don't like to read or don't want to waste your valuable time. Please exit this page
 
 This page looks a lot like Lorem Ipsum. You can see it here. However, the text here can be read by humans. I hope you guys find it useful from this page.
+NOTE: You can change the contents of the CSS or JS file to make the page more beautiful
